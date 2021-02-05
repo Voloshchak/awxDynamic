@@ -1,0 +1,5 @@
+CheckboxParameter:
+  - key: admin
+    value: admin
+  - key: backend
+    value: backend
